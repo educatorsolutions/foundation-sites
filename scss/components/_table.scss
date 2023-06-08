@@ -145,7 +145,7 @@ $table-stack-breakpoint: medium !default;
     td {
       padding: $table-padding;
       font-weight: $global-weight-bold;
-      text-align: #{$global-left};
+      //text-align: #{$global-left};
     }
   }
 
